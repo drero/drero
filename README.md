@@ -9,9 +9,9 @@
 ```JavaScript
 object **PROFILE** {
  val name = "André Branco"
- val acknowledgements = "Web Design/FrontEnd"
+ val acknowledgements = "WebDesign/FrontEnd"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "SOME SKILLS"
  val languages = listOf("HTML", "CSS", "JavaScript", "TypeScript", "React") 
 }
 ```
