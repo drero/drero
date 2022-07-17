@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=drero&color=blue)
 ### Hello devs 👋
 "My career has been a series of projects and collaborations."
 
@@ -26,11 +27,11 @@ object **PROFILE** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-## **GitHub Estatísticas**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drero&layout=compact&theme=algolia)](https://github.com/drero/github-readme-stats)
+## **GitHub Statistics**
 <a href="https://github.com/drero">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=drero&layout=compact&show_icons=true&theme=algolia&line_height=27&width=80%" alt="Branco github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drero&layout=compact&theme=algolia" alt="Branco github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=drero&layout=compact&show_icons=true&theme=algolia&line_height=27&width=80%" alt="Branco github stats" />
 </a>
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drero.visitor-badge)
+
 
