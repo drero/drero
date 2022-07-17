@@ -29,7 +29,7 @@ object **PROFILE** {
 ## **GitHub Estatísticas**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drero&layout=compact&theme=algolia)](https://github.com/drero/github-readme-stats)
 <a href="https://github.com/drero">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=drero&show_icons=true&theme=algolia&line_height=27" alt="Branco github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=drero&show_icons=true&theme=algolia&line_height=27&padding_left=0" alt="Branco github stats"/>
 </a>
 <br>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=drero.visitor-badge)
