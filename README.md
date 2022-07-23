@@ -12,8 +12,7 @@ object **PROFILE** {
  val acknowledgements = "WebDesign/FrontEnd"
  
  val primarySkillset = "SOME SKILLS"
- val languages = listOf("HTML", "CSS", "JavaScript", "TypeScript", "React") 
-}
+ val languages = listOf("HTML", "CSS", "JavaScript", "TypeScript", "React") }
 ```
 
 ## **Languages & Tools:**  
